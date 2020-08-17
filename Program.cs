@@ -12,7 +12,8 @@ namespace Payslip
             Console.WriteLine("Please Write your Last Name");
             testSlip.LastName = Console.ReadLine();
             Console.WriteLine($"your first name is {testSlip.FirstName} and your last name is {testSlip.LastName}");
-            
+            //function from payslip input class (called payslip)
+            Console.WriteLine(Payslip.PayslipInput.NameConcat(testSlip.FirstName, testSlip.LastName));
         }
     }
 }
