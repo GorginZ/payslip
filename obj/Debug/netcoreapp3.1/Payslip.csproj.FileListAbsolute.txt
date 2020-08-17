@@ -1,0 +1,12 @@
+/Users/georgia.leng/Desktop/C#/Payslip/bin/Debug/netcoreapp3.1/Payslip.deps.json
+/Users/georgia.leng/Desktop/C#/Payslip/bin/Debug/netcoreapp3.1/Payslip.runtimeconfig.json
+/Users/georgia.leng/Desktop/C#/Payslip/bin/Debug/netcoreapp3.1/Payslip.runtimeconfig.dev.json
+/Users/georgia.leng/Desktop/C#/Payslip/bin/Debug/netcoreapp3.1/Payslip.dll
+/Users/georgia.leng/Desktop/C#/Payslip/bin/Debug/netcoreapp3.1/Payslip.pdb
+/Users/georgia.leng/Desktop/C#/Payslip/obj/Debug/netcoreapp3.1/Payslip.csprojAssemblyReference.cache
+/Users/georgia.leng/Desktop/C#/Payslip/obj/Debug/netcoreapp3.1/Payslip.AssemblyInfoInputs.cache
+/Users/georgia.leng/Desktop/C#/Payslip/obj/Debug/netcoreapp3.1/Payslip.AssemblyInfo.cs
+/Users/georgia.leng/Desktop/C#/Payslip/obj/Debug/netcoreapp3.1/Payslip.csproj.CoreCompileInputs.cache
+/Users/georgia.leng/Desktop/C#/Payslip/obj/Debug/netcoreapp3.1/Payslip.dll
+/Users/georgia.leng/Desktop/C#/Payslip/obj/Debug/netcoreapp3.1/Payslip.pdb
+/Users/georgia.leng/Desktop/C#/Payslip/obj/Debug/netcoreapp3.1/Payslip.genruntimeconfig.cache
